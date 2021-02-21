@@ -1,0 +1,2 @@
+git+git://github.com/AliAbdelaal/simple-image-classifier#egg=simple-image-classifier
+git+git://github.com/AliAbdelaal/pubsub-lib#egg=pubsub-lib
